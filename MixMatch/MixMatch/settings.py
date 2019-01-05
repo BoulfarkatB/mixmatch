@@ -25,7 +25,7 @@ SECRET_KEY = '+btvvkf8$j%-78po8ghy5@n1_b&4pngm@u1+wnef#0w%+@iud4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost','immense-crag-68689.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
